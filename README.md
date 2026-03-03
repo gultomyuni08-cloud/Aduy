@@ -1,0 +1,2 @@
+# Aduy
+Pendeteksi penyakit kamu 
